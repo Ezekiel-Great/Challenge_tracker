@@ -1,0 +1,2 @@
+# Challenge_tracker
+ The project is a web-based challenge tracker that visualizes a list of different programming challenges. Each challenge is color-coded based on its status (e.g., completed, ongoing, or upcoming). The interface provides an interactive and visually engaging way to monitor progress across multiple challenges, displaying the name of the challenge, its category, and its current status.
