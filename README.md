@@ -29,7 +29,7 @@ The Challenge Tracker is a dynamic web application that allows users to track va
 4. Track your progress by referring to the status and completion of each challenge.
 
 ## Live Site
-Check out the live site at [Challenge Tracker](#).
+Check out the live site at [Challenge Tracker](https://ezekiel-great.github.io/Challenge_tracker/).
 
 ## Technologies Used
 - **HTML:** Provides the structure of the web page.
